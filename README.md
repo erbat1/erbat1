@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eray Özen</h1>
 <h3 align="center">A mechanical engineer who is passionate about programming.</h3>
 
-- 🌱 I’m currently learning **Python, Java**
+- 🌱 I’m currently learning **Python, Java, JavaScript, React Native**
 
 - 📫 How to reach me **erayozen99@gmail.com**
 
